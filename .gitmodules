@@ -1,0 +1,3 @@
+[submodule "Raspite"]
+	path = Raspite
+	url = https://github.com/TheVeryStarlk/Raspite
