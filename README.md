@@ -4,4 +4,4 @@ Classimatic is a CLI tool for converting Classic `.schematic` files into `Classi
 > ⚠️ I have not tested if the Linux and macOS binaries work.
 
 ## Usage
-Run `Classimatic`'s executable and provide it with the file path as an argument `Classimatic --path world.schematic`.
+Head to the [releases](https://github.com/TheVeryStarlk/Classimatic/releases/tag/first) section and download the binaries for your OS. Run `Classimatic`'s executable and provide it with the file path as an argument `Classimatic --path world.schematic`.
